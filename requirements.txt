@@ -1,0 +1,19 @@
+# ADA Framework Requirements
+# Python 3.10+
+
+# Core dependencies
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Optional: For advanced optimization
+cvxpy>=1.2.0
+gurobipy>=9.5.0
+
+# Utilities
+colorama>=0.4.4  # For colored terminal output
+
+# Development (optional)
+pytest>=7.0.0
+black>=22.0.0
+mypy>=0.950
+
